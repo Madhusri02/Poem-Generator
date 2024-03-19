@@ -46,7 +46,23 @@ streamlit run streamlit_app.py
 ## ⭐⭐ IMAGES ⭐⭐
 
  ### Output generated📚 : 
+
+  **Sample - 1**
    ![Image of the screenshot](https://github.com/Madhusri02/Poem-Generator/blob/main/Screenshot%202024-03-15%20064200.png)
+
+   **Sample - 2**
+   ![image-2](https://github.com/Madhusri02/Poem-Generator/blob/main/Output's%20Generated/output-img.png)
+
+https://github.com/Madhusri02/Poem-Generator/assets/123156637/6f910c9a-89b9-4a3c-8523-4d77d5f49be0
+
+## Reference 
+  * [IBM](https://www.ibm.com/topics/ai-model)
+  *  [AI-MODEL]([https://www.ibm.com/topics/ai-model](https://www.elegantthemes.com/blog/business/how-to-make-an-ai))
+*  [Geeks-for-geeks]([https://www.ibm.com/topics/ai-model](https://www.geeksforgeeks.org/lstm-based-poetry-generation-using-nlp-in-python/))
+
+
+   
+   
 
 
 
