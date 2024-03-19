@@ -57,8 +57,8 @@ https://github.com/Madhusri02/Poem-Generator/assets/123156637/6f910c9a-89b9-4a3c
 
 ## Reference 
   * [IBM](https://www.ibm.com/topics/ai-model)
-  *  [AI-MODEL]([https://www.ibm.com/topics/ai-model](https://www.elegantthemes.com/blog/business/how-to-make-an-ai))
-*  [Geeks-for-geeks]([https://www.ibm.com/topics/ai-model](https://www.geeksforgeeks.org/lstm-based-poetry-generation-using-nlp-in-python/))
+  *  [AI-MODEL](https://www.elegantthemes.com/blog/business/how-to-make-an-ai)
+*  [Geeks-for-geeks](https://www.geeksforgeeks.org/lstm-based-poetry-generation-using-nlp-in-python/)
 
 
    
